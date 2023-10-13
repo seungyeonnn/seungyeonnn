@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeonnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
  
